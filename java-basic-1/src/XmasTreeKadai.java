@@ -22,7 +22,7 @@ public class XmasTreeKadai {
             System.out.print("\n");
         }
          // 幹の部分の描画
-          for (int j = 0; j < B; j++) {
+for (int j = 0; j < B; j++) {
             for (int i = 0; i <= N - A / 2; i++) {
                 System.out.print(" ");
             }
