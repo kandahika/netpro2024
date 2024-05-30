@@ -1,6 +1,6 @@
 package thread;
 
-public class ExThreadsMain {
+public class ExThreadsMainTest {
     public static void main(String[] args) {
         // 3つの異なるタスクを持つRunnableインスタンスを作成
         Runnable task1 = new Task1();
